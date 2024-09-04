@@ -3,14 +3,14 @@
 
 
 # dúvidas
-1. [x] em geral, o que precisamos entregar no final?
-2. [] o que é o jogo Smart Decisions
-3. [] que artefatos serão produzidos durante a disciplina
+- [x] em geral, o que precisamos entregar no final?
+- [ ] o que é o jogo Smart Decisions e como se joga
+- [ ] que artefatos serão produzidos durante a disciplina
 
 # anotações 
 
-- pesquisar e esntender os conceitos sobre design de software
-- pesquisar e esntender os conceitos sobre design de machine learning
+- pesquisar e entender os conceitos sobre design de software
+- pesquisar e entender os conceitos sobre machine learning
 - entender as regras e aplicações do [Smart Decisions Game](smartdecisionsgame.com)
 
 # materiais de estudo
