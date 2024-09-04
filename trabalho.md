@@ -3,8 +3,8 @@
 
 
 # dúvidas
-1. nenhuma
-2. nenhuma
+1. [x] em geral, o que precisamos entregar no final?
+2. [] o que é o jogo Emart Decisions
 
 # anotações 
 
