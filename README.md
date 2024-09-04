@@ -1,2 +1,7 @@
 # ds-2024-02
 Repositório criado para armazenar as atividades realizadas na disciplina 'Design de Software'
+
+## semana 01
+
+## semana 02
+[Trabalho](./trabalho.md)
