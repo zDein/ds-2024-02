@@ -14,7 +14,7 @@
 - entender as regras e aplicações do [Smart Decisions Game](smartdecisionsgame.com)
 
 ## Link anotações estudos
-
+https://docs.google.com/document/d/1hrPO2O7ErfC1kRGYsZLwXci0HmD-dWaR-bDe3LS7Me4/edit?usp=drivesdk
 
 # materiais de estudo
 
