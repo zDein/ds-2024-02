@@ -13,6 +13,9 @@
 - pesquisar e entender os conceitos sobre machine learning
 - entender as regras e aplicações do [Smart Decisions Game](smartdecisionsgame.com)
 
+## Link anotações estudos
+
+
 # materiais de estudo
 
 ## Design de Software
