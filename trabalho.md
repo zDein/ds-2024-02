@@ -1,5 +1,5 @@
 # link para o jogo
-## [Smart Decisions Game](smartdecisionsgame.com)
+## [Smart Decisions Game](https://smartdecisionsgame.com)
 
 
 # dúvidas
