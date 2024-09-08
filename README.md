@@ -3,7 +3,7 @@ Repositório criado para armazenar as atividades realizadas na disciplina 'Desig
 
 ## semana 01
 
-### [Aniversario](./aniversario.md)
+### [Aniversario](./Aniversario.md)
 
 ## semana 02
 
