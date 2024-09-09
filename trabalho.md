@@ -21,8 +21,12 @@ https://docs.google.com/document/d/1hrPO2O7ErfC1kRGYsZLwXci0HmD-dWaR-bDe3LS7Me4/
 ## Design de Software
 
 ### 1. [SWEBOK v3.0](https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf) - (CHAPTER 2 PAGE 50 - SOFTWARE DESIGN)
-### 2. [INTRODUCTION TO SOFTWARE DESIGN](https://medium.com/@manyeong.lee99/introduction-to-software-design-200b3175a9f1)
-### 3. [BASIC OF SOFTWARE DESIGN](https://www.scaler.com/topics/software-engineering/what-is-software-design/)
+### 2. [BASIC OF SOFTWARE DESIGN](https://www.scaler.com/topics/software-engineering/what-is-software-design/)
+### 3. [Understanding Software Architecture: A Complete Guide](https://sarrahpitaliya.medium.com/understanding-software-architecture-a-complete-guide-cb8f05900603)
+
+## Machine Learning
+
+### 1. []()
 
 
 # outros
