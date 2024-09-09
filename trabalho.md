@@ -26,7 +26,8 @@ https://docs.google.com/document/d/1hrPO2O7ErfC1kRGYsZLwXci0HmD-dWaR-bDe3LS7Me4/
 
 ## Machine Learning
 
-### 1. []()
+### 1. [O que é Machine Learning?](https://medium.com/blog-do-zouza/o-que-%C3%A9-machine-learning-5e7e98453985)
+### 2. [A Beginner’s Guide to Machine Learning](https://medium.com/@randylaosat/a-beginners-guide-to-machine-learning-dfadc19f6caf)
 
 
 # outros
