@@ -8,3 +8,7 @@ Repositório criado para armazenar as atividades realizadas na disciplina 'Desig
 ## semana 02
 
 ### [Trabalho](./trabalho.md)
+
+## Semana 3
+
+### [Entendendo](./Entendendo.md)
