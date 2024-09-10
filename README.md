@@ -11,4 +11,4 @@ Repositório criado para armazenar as atividades realizadas na disciplina 'Desig
 
 ## Semana 3
 
-### [Entendendo](./Entendendo.md)
+### [Entendendo](./entendendo.md)
