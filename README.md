@@ -15,4 +15,4 @@ Repositório criado para armazenar as atividades realizadas na disciplina 'Desig
 
 ## Semana 4
 
-### [Definição](./decomposicao.md)
+### [Definição](./definicao.md)
